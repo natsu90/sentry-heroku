@@ -36,6 +36,7 @@
     "SENDGRID_MAIL_FROM": {
       "description": "Send emails using this address",
       "value": "root@localhost"
-    }
+    },
+    "BUILDPACK_URL": "https://github.com/ddollar/heroku-buildpack-multi.git"
   }
 }

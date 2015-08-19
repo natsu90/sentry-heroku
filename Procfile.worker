@@ -1,0 +1,1 @@
+worker: sentry --config=sentry.conf.py celery worker -B
