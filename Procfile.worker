@@ -1,1 +1,1 @@
-worker: sentry --config=sentry.conf.py celery worker -B
+worker: newrelic-admin run-program sentry --config=sentry.conf.py celery worker -B
